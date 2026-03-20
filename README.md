@@ -48,10 +48,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🏢 Employee Management System](https://github.com/aslaydn/EmployeeManagementSystem) | Full-stack EMS with JWT auth, role management & CI/CD pipeline | Blazor WASM · .NET 8 · SQL Server |
-| [🫁 Pneumonia Detection & Report Generation](https://github.com/aslaydn/pneumonia-detection) | Multi-model AI: EfficientNetB3 classifier + T5 bilingual medical reports | TensorFlow · T5 · Gradio |
-| [💬 Formula Forum](https://github.com/aslaydn/Formula-Forum) | Forum app with admin/author panels, 4-layer N-Tier architecture | ASP.NET MVC · MSSQL · EF |
-| [🚦 Traffic Sign Detection](https://github.com/aslaydn/traffic-signs-detection) | YOLOv4-Tiny on custom labeled dataset for autonomous vehicle context | Python · Darknet · TensorFlow |
+| [Employee Management System](https://github.com/aslaydn/EmployeeManagementSystem) | Full-stack EMS with JWT auth, role management & CI/CD pipeline | Blazor WASM · .NET 8 · SQL Server |
+| [Pneumonia Detection & Report Generation](https://github.com/aslaydn/pneumonia-detection) | Multi-model AI: EfficientNetB3 classifier + T5 bilingual medical reports | TensorFlow · T5 · Gradio |
+| [Formula Forum](https://github.com/aslaydn/Formula-Forum) | Forum app with admin/author panels, 4-layer N-Tier architecture | ASP.NET MVC · MSSQL · EF |
+| [Traffic Sign Detection](https://github.com/aslaydn/traffic-signs-detection) | YOLOv4-Tiny on custom labeled dataset for autonomous vehicle context | Python · Darknet · TensorFlow |
 
 ---
 
